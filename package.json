@@ -1,5 +1,5 @@
 {
-  "name": "example-basic",
+  "name": "issue772-example",
   "type": "module",
   "scripts": {
     "dev": "vinxi dev",
